@@ -6,6 +6,8 @@ Follows vue [best practices](https://vuejs.org/v2/guide/single-file-components.h
 
 Uses [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter), the most full-featured Vue.js MDC wrapper.
 
+![screenshot-2017-10-3 brunch vue material web components](https://user-images.githubusercontent.com/11166947/31198947-f56d677a-a923-11e7-8cf9-db0094f06e22.png)
+
 Based off of: [tomquirk/brunch-vue-barebones](https://github.com/tomquirk/brunch-vue-barebones)
 
 ## Installation
